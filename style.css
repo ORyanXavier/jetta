@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    list-style: none;
+}
+.fund{
+}
+
+header{
+    display: flex;
+    gap: 1699px;
+    padding: 10px;
+}
+.logo1{
+height: 100px;
+
+}
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.pix{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}
+.img24{
+}
